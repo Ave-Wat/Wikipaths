@@ -1,2 +1,2 @@
 language = "java10"
-run = "java PathFinder"
+run = "java PathFinder articles.tsv links.tsv "Duran_Duran" "Canada_Goose""
