@@ -1,2 +1,2 @@
 language = "java10"
-run = "java PathFinder.java"
+run = "java PathFinder"
