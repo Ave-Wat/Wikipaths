@@ -3,4 +3,6 @@ This is a project from my CS201 Data Structures class. The project uses several 
 
 Run the PathFinder file. First compile: javac PathFinder.java. Then, there are two ways to run the program. The first is: java PathFinder articles.tsv links.tsv startVertex endVertex. The second is: java PathFinder articles.tsv links.tsv startVertex intermediateVertex endVertex. When entering articles (vertices) of more than one word, surround the word with quotations.
 
+Note: if running on repl.it, the Run button is configured not to work, must enter the commands manually.
+
 [![Run on Repl.it](https://repl.it/badge/github/Ave-Wat/Wikipaths)](https://repl.it/github/Ave-Wat/Wikipaths)
